@@ -16,7 +16,7 @@ Date      	          By	Comments
 ----------	          ---	----------------------------------------------------------
 
 .LINK
-   www.advantive.nl
+  https://github.com/scns/simple-connect-script-Office365-AzureAD
 
 .LICENSE
 Permission is hereby granted, free of charge, to any person obtaining a copy
